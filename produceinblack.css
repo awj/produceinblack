@@ -14,7 +14,7 @@ h1.hero {
   line-height: 1em; /* a */
   max-height: 2em; /* a x number of line to show (ex : 2 line)  */
   text-align: center;
-  font-size: 5vmax;
+  font-size: 12vmin;
   margin-top: 70px
 }
 
