@@ -7,8 +7,15 @@ section {
 }
 
 h1.hero {
-    text-align: center;
-    font-size: 10em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  display: block;
+  line-height: 1em; /* a */
+  max-height: 2em; /* a x number of line to show (ex : 2 line)  */
+  text-align: center;
+  font-size: 5vmax;
+  margin-top: 70px
 }
 
 #header nav ul li.fork {

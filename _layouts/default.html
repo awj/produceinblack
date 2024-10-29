@@ -27,8 +27,11 @@
         </ul>
       </nav>
     </div>
-      <div class="wrapper">
+    {% if page.hero %}
+    <h1 class="hero">{{page.hero}}</h1>
+    {% endif %}
 
+      <div class="wrapper">
       <section>
         {{ content }}
       </section>
