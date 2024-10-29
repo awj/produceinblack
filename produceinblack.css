@@ -10,3 +10,19 @@ h1.hero {
     text-align: center;
     font-size: 10em;
 }
+
+#header nav ul li.fork {
+    margin-right: 5px;
+}
+#header nav ul li a {
+    background: linear-gradient(#2a2a29, #1c1c1c);
+    background-color: #2a2a29;
+    border-color: #e8e8e8;
+}
+
+#header nav ul li a:hover {
+    background: linear-gradient(#e8e8e8, #f8f8f8);
+    background-color: #e8e8e8;
+    border-color: #2a2a29;
+    color: #2a2a29;
+}
