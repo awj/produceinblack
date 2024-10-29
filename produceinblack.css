@@ -1,0 +1,12 @@
+div.wrapper {
+    max-width: 100%;
+}
+
+section {
+    max-width: 100%;
+}
+
+h1.hero {
+    text-align: center;
+    font-size: 10em;
+}
