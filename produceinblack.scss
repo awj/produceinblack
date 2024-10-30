@@ -86,6 +86,10 @@ section.agent, section.case {
     .redacted {
     background-color: black;
     color: black;
+
+    &::selection {
+        color: #2a2a29;
+    }
     }
 
     img.agent, img.case {
