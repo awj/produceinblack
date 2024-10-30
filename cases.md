@@ -22,3 +22,11 @@
   
   <p>He once worked for <span class="redacted">PIB</span>, and now works for the world's vegetables most dangerous organization</p>
 </section>
+
+<section class="case">
+  <h1>WANTED: type:Grape</h1>
+  <img src="/img/Classified.png"/>
+  <p style="color: red">Reward: $70,000</p>
+  <p>"Agent G" was originally Agent B's assistant, but he thought the pay was too low and is trying to destroy <span class="redacted">PIB</span>. He specializes in recon due to his many heads, so he can keep his eyes on everything. He is a traitor.
+  </p>
+</section>
