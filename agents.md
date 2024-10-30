@@ -1,7 +1,5 @@
 <img src="/img/Classified.png"/>
 
-# Agents
-
 <section class="agent">
   <h1>Agent B</h1>
   <img class="agent left" src="/img/Classified.png"/>
