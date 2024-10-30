@@ -1,3 +1,6 @@
+---
+---
+
 div.wrapper {
     max-width: 100%;
 }
@@ -74,27 +77,27 @@ div#header {
     color: #2a2a29;
 }
 
-section.agent {
+section.agent, section.case {
     border: 1px solid #2a2a29;
     border-radius: 2px;
     min-height: 500px;
     padding: 6px;
-}
 
-section.agent .redacted {
+    .redacted {
     background-color: black;
     color: black;
-}
+    }
 
-section.agent img.agent {
-    max-width: 25vw;
-    height: auto;
-}
+    img.agent, img.case {
+        max-width: 25vw;
+        height: auto;
+    }
 
-section.agent img.left {
-    float: left;
-}
+    img.left {
+        float: left;
+    }
 
-section.agent img.right {
-    float: right;
+    img.right {
+        float: right;
+    }
 }
