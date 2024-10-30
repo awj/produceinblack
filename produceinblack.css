@@ -38,6 +38,16 @@ div#header {
     box-shadow: none;
 }
 
+@media print, screen and (max-width: 480px) {
+    #header {
+        margin-top: 0;
+    }
+
+    nav {
+        display: block;
+    }
+}
+
 #header nav ul li.logo a:hover {
     border: none;
     background: none;
@@ -62,4 +72,29 @@ div#header {
     background-color: #e8e8e8;
     border-color: #2a2a29;
     color: #2a2a29;
+}
+
+section.agent {
+    border: 1px solid #2a2a29;
+    border-radius: 2px;
+    min-height: 500px;
+    padding: 6px;
+}
+
+section.agent .redacted {
+    background-color: black;
+    color: black;
+}
+
+section.agent img.agent {
+    max-width: 25vw;
+    height: auto;
+}
+
+section.agent img.left {
+    float: left;
+}
+
+section.agent img.right {
+    float: right;
 }
