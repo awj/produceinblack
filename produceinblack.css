@@ -30,6 +30,21 @@ div#header {
     float: right;
     margin-left: 6px;
 }
+#header nav ul li.logo a {
+    border: none;
+    background: none;
+    margin-top: 0;
+    padding-top: 0;
+    box-shadow: none;
+}
+
+#header nav ul li.logo a:hover {
+    border: none;
+    background: none;
+    margin-top: 0;
+    padding-top: 0;
+    box-shadow: none;
+}
 
 #header nav ul li.logo a img {
     height: 50px;
