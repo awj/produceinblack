@@ -4,7 +4,7 @@
 
 <section class="agent">
   <h1>Agent B</h1>
-  <img class="agent left" src="/img/Agent Banana.png"/>
+  <img class="agent left" src="/img/Classified.png"/>
   <p>This banana can be found running around the streets of Montana in a suit. He is from a top secret organization called <span class="redacted">PIB</span> which stands for <span class="redacted">Produce</span> <span class="redacted">in</span> <span class="redacted">Black</span>.
   </p>
   
@@ -22,7 +22,7 @@
 
 <section class="agent">
 <h1>Agent P</h1>
-<img class="agent right" src="/img/Agent Pickle.png"/>
+<img class="agent right" src="/img/Classified.png"/>
 
 <p>There is not much known about Agent P, formerly known as <span class="redacted">Pickle</span> <span class="redacted">Rickle</span>. He became partners with <span class="redacted">Agent B</span> and then founded <span class="redacted">PIB</span>. Then they made it big and then made weapons that no one has seen before.
 </p>
