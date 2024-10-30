@@ -5,5 +5,7 @@
 layout: default
 hero: Produce In Black
 ---
+<img src="/img/Classified.png"/>
+<img src="/img/top secret.png"/>
 
 The best kept produce in the universe.

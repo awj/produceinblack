@@ -18,9 +18,24 @@ h1.hero {
   margin-top: 70px
 }
 
-#header nav ul li.fork {
-    margin-right: 5px;
+div#header {
+    background-image: none;
 }
+
+#header nav ul li.fork {
+    margin-right: 6px;
+}
+
+#header nav ul li.logo {
+    float: right;
+    margin-left: 6px;
+}
+
+#header nav ul li.logo img {
+    height: 50px;
+    width: 50px;
+}
+
 #header nav ul li a {
     background: linear-gradient(#2a2a29, #1c1c1c);
     background-color: #2a2a29;
