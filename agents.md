@@ -29,6 +29,6 @@
 
 <p><span class="redacted">Whoever</span> <span class="redacted">finds</span> Agent P <span class="redacted">should</span> <span class="redacted">contact</span> <span class="redacted">us</span> <span class="redacted">immediately.</span> <span class="redacted">His</span> <span class="redacted">sour</span> <span class="redacted">disposition</span> <span class="redacted">makes</span> <span class="redacted">him</span> <span class="redacted">more</span> <span class="redacted">likely</span> <span class="redacted">to</span> <span class="redacted">retaliate</span> <span class="redacted">when</span> <span class="redacted">confronted</span> <span class="redacted">than</span> <span class="redacted">Agent</span> <span class="redacted">B.</span> <span class="redacted">Use</span> <span class="redacted">extreme</span> <span class="redacted">caution</span> <span class="redacted">if</span> <span class="redacted">he</span> <span class="redacted">is</span> <span class="redacted">discovered.</span></p>
 
-<p>Their headquarters was recently blown up while working on a case, and no one know about anything else.</p>
+<p>Their headquarters was recently blown up while working on a case, and no one knows about anything else.</p>
 </section>
 
